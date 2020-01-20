@@ -1,1 +1,56 @@
+import turtle
+myPen = turtle.Turtle()
+
+myPen.penup()
+myPen.setpos(0,0)
+myPen.pendown()
+myPen.circle(20)
+
+import turtle
+myPen = turtle.Turtle()
+
+myPen.penup()
+myPen.setpos(0,60)
+myPen.pendown()
+myPen.circle(20)
+myPen.up()
+
+
+import turtle
+myPen = turtle.Turtle()
+
+myPen.penup()
+myPen.setpos(60,0)
+myPen.pendown()
+myPen.circle(20)
+myPen.up()
+
+import turtle
+myPen = turtle.Turtle()
+
+myPen.penup()
+myPen.setpos(0,120)
+myPen.pendown()
+myPen.circle(20)
+myPen.up()
+
+
+import turtle
+myPen = turtle.Turtle()
+
+myPen.penup()
+myPen.setpos(60,60)
+myPen.pendown()
+myPen.circle(20)
+myPen.up()
+
+
+import turtle
+myPen = turtle.Turtle()
+
+myPen.penup()
+myPen.setpos(120,0)
+myPen.pendown()
+myPen.circle(20)
+myPen.up()
 
